@@ -1,0 +1,223 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/gilleszwijsen/battlesnark/contracts/Battleship.sol": {
+      "lastModificationDate": 1672446472532,
+      "contentHash": "8e4f47463bbfb010ac9c22eb6e10712a",
+      "sourceName": "contracts/Battleship.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Battleship",
+        "ICreateVerifier",
+        "IMoveVerifier"
+      ]
+    },
+    "/Users/gilleszwijsen/battlesnark/contracts/createVerifier.sol": {
+      "lastModificationDate": 1672452222998,
+      "contentHash": "7cb0d42de2e02433c3b07e91bcbb5731",
+      "sourceName": "contracts/createVerifier.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Pairing",
+        "Verifier"
+      ]
+    },
+    "/Users/gilleszwijsen/battlesnark/contracts/moveVerifier.sol": {
+      "lastModificationDate": 1672452272394,
+      "contentHash": "23402edc084025b6b10bdbd66a41210c",
+      "sourceName": "contracts/moveVerifier.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Pairing",
+        "Verifier"
+      ]
+    },
+    "/Users/gilleszwijsen/GuessWH0/contracts/Battleship.sol": {
+      "lastModificationDate": 1672456480718,
+      "contentHash": "8e4f47463bbfb010ac9c22eb6e10712a",
+      "sourceName": "contracts/Battleship.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Battleship",
+        "ICreateVerifier",
+        "IMoveVerifier"
+      ]
+    },
+    "/Users/gilleszwijsen/GuessWH0/contracts/createVerifier.sol": {
+      "lastModificationDate": 1672459316723,
+      "contentHash": "bfa8fe2961ec13bc8067a9e9d5eb9816",
+      "sourceName": "contracts/createVerifier.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Pairing",
+        "Verifier"
+      ]
+    },
+    "/Users/gilleszwijsen/GuessWH0/contracts/moveVerifier.sol": {
+      "lastModificationDate": 1672459367404,
+      "contentHash": "2ca25180501e5688d7350b099f5e3b6b",
+      "sourceName": "contracts/moveVerifier.sol",
+      "solcConfig": {
+        "version": "0.8.4",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Pairing",
+        "Verifier"
+      ]
+    }
+  }
+}
